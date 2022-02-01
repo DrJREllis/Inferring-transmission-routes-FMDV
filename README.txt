@@ -18,8 +18,8 @@ ABCSMC.m - Runs the ABC-SMC algorithm and saves the data after each round.
 Model_selection.m - Runs the ABC-SMC for model selection algorithm and saves the data after each round.
 
 Data folder:
-SimpleWithinHostModelToo2_NF_MCMCSamples.mat
-SimplePhenomModel_VirusDynOnly_MCMCSamples.mat
-EnvTrans_SimpleModel21_MCMCSamples.mat
-Posteriordistributions.mat
-Posteriors_A1_farm1.mat
+SimpleWithinHostModelToo2_NF_MCMCSamples.mat - 
+SimplePhenomModel_VirusDynOnly_MCMCSamples.mat - 
+EnvTrans_SimpleModel21_MCMCSamples.mat - 
+Posteriordistributions.mat - Posterior data for all five farms from the ABC-SMC algorithm
+Posteriors_A1_farm1.mat - Posterior data for farm 1 (IP1b) when environment size (A) = 0
