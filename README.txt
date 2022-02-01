@@ -16,3 +16,10 @@ Prior_dist_fitting.m - Computes prior distributions and calculates the prior pro
 Run_ABCSMC.m - Calls either the ABCSMC or Model_selection functions, either for parallel computing or on a single machine.
 ABCSMC.m - Runs the ABC-SMC algorithm and saves the data after each round.
 Model_selection.m - Runs the ABC-SMC for model selection algorithm and saves the data after each round.
+
+Data folder:
+SimpleWithinHostModelToo2_NF_MCMCSamples.mat
+SimplePhenomModel_VirusDynOnly_MCMCSamples.mat
+EnvTrans_SimpleModel21_MCMCSamples.mat
+Posteriordistributions.mat
+Posteriors_A1_farm1.mat
