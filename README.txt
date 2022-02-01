@@ -1,7 +1,8 @@
 Code and data related to the paper 'Inferring transmission routes for foot-and-mouth disease virus within a cattle herd using approximate Bayesian computation'.
 
 MATLAB REQUIREMENTS AND CODE:
-The scripts/functions were run using Matlab version 2020b and require the Statistics and Machine Learning and Parallel Computing toolboxes. However, they can be easily adapted to run without the Parallel Computing toolbox by changing the "parfor" loop in the ParEst function to a "for" loop.
+The scripts/functions were run using Matlab version 2020b and require the Statistics and Machine Learning and Parallel Computing toolboxes. 
+However, they can be easily adapted to run without the Parallel Computing toolbox by changing the "parfor" loop in the ParEst function to a "for" loop.
 
 Within_Herd_Transmission_Model.m - Calls the Transmission_model function multiple times and plots transmission dynamics figures.
 Transmission_model.m - Runs the transmission model with both direct and environmental transmission.
