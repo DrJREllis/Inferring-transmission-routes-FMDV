@@ -2,7 +2,7 @@ Code and data related to the paper 'Inferring transmission routes for foot-and-m
 
 MATLAB REQUIREMENTS AND CODE:
 The scripts/functions were run using Matlab version 2020b and require the Statistics and Machine Learning and Parallel Computing toolboxes. 
-However, they can be easily adapted to run without the Parallel Computing toolbox by changing the "parfor" loop to a "for" loop in the ABCSMC and Model Selection functions.
+However, they can be easily adapted to run without the Parallel Computing toolbox by changing the "parfor" loop to a "for" loop in the ABCSMC and Model_selection functions.
 
 Within_Herd_Transmission_Model.m - Calls the Transmission_model function multiple times and plots transmission dynamics figures.
 Transmission_model.m - Runs the transmission model with both direct and environmental transmission.
